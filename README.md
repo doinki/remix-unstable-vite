@@ -1,4 +1,4 @@
-![Image 1](https://github.com/doinki/remix-dynamic-import/blob/main/1.png)
+![Image 1](https://github.com/doinki/remix-unstable-vite/blob/main/1.png)
 
 ```tsx
 // components/LazyMotion.tsx
